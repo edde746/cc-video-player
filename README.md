@@ -24,4 +24,7 @@ python3 convert.py video.mp4 82x40 5
 
 ## Demo
 
-...
+
+
+https://github.com/edde746/cc-video-player/assets/86283021/6cf0ffe3-8f59-4129-8b16-df910e1028ae
+
